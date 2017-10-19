@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Browser Syntax</string>
+    <string name="enter_url">Enter URL :</string>
+    <string name="get_page_source">Browser Syntax</string>
+    <string-array name="spin">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
